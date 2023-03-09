@@ -1,49 +1,47 @@
-Month 1:
+Here's a study plan that you can follow to learn DevOps and the programming languages you mentioned:
 
-Week 1:
+## Month 1:
 
-- Read "The DevOps Handbook" by Gene Kim, Jez Humble, and Patrick Debois (Book)
-- Watch "DevOps Roadmap for Beginners" by Edureka (Video Course)
-- Read "What is DevOps?" by IBM (Article)
+### Week 1:
 
-Week 2:
+- Start with learning the basics of DevOps principles and practices, including continuous integration, continuous delivery, and monitoring.
+- Watch introductory videos on YouTube or other video platforms to get an overview of the DevOps landscape.
+- Read blogs and articles on DevOps to understand the different tools and technologies used in the industry.
 
-- Read "Pro Git" by Scott Chacon and Ben Straub (Book)
-- Complete "Learn Git in 15 Minutes" by Codecademy (Article)
-- Watch "Git and GitHub Crash Course" by Traversy Media (YouTube Video)
+### Week 2:
 
-Week 3:
+- Learn the basics of Git and version control. You can start with the Git documentation or watch online tutorials on YouTube.
+- Start practicing using Git with sample projects from online resources.
+- Learn the basics of the Linux operating system, including basic commands and file management.
 
-- Complete "Linux Fundamentals" by Pluralsight (Video Course)
-- Read "The Linux Command Line" by William Shotts (Free Online Book)
-- Complete "Linux Journey" (Free Online Tutorial)
+### Week 3:
 
-Week 4:
+- Dive into Bash scripting by learning the syntax, control structures, and basic commands.
+- Start practicing with simple Bash scripts that automate basic system administration tasks.
 
-- Complete "Bash Scripting for Beginners" by Udemy (Video Course)
-- Read "Advanced Bash Scripting Guide" by Mendel Cooper (Free Online Book)
+### Week 4:
 
-Month 2:
+- Learn the basics of Python programming language by taking online courses, reading tutorials, or watching videos.
+- Start practicing with sample Python projects from online resources.
 
-Week 1:
+## Month 2:
 
-- Complete "Python for Everybody" by University of Michigan (Online Course)
-- Read "Python Crash Course" by Eric Matthes (Free Online Book)
-- Complete "Python Tutorial" by w3schools (Online Tutorial)
+### Week 1:
 
-Week 2:
+- Learn the basics of Java programming language by taking online courses, reading tutorials, or watching videos.
+- Start practicing with sample Java projects from online resources.
 
-- Complete "Java Programming Basics" by Udemy (Video Course)
-- Read "Java Tutorial for Beginners" by Oracle (Online Tutorial)
-- Read "Java Programming" by Wikibooks (Free Online Book)
+### Week 2:
 
-Week 3:
+- Learn the basics of Go programming language by taking online courses, reading tutorials, or watching videos.
+- Start practicing with sample Go projects from online resources.
 
-- Complete "Learn Go in 12 Minutes" by Derek Banas (YouTube Video)
-- Complete "Learn Go Programming" by Tutorialspoint (Online Tutorial)
-- Read "The Go Programming Language" by Alan A. A. Donovan and Brian W. Kernighan (Free Online Book)
+### Week 3:
 
-Week 4:
+- Learn the basics of Docker and containerization.
+- Start practicing by building simple Docker images and containers.
 
-- Complete "Get Started with Docker" by Docker (Official Documentation)
-- Complete "Kubernetes Fundamentals" by Pluralsight (Video Course)
+### Week 4:
+
+- Learn the basics of Kubernetes and container orchestration.
+- Start practicing by deploying sample applications on Kubernetes clusters.
